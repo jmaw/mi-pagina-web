@@ -1,0 +1,25 @@
+{
+  "version": "2.0.3",
+  "summary": {
+    "title": "Prueba",
+    "owner": "JM",
+    "description": "Prueba de mi sistema informatico",
+    "id": 0
+  },
+  "detail": {
+    "contributors": [],
+    "diagrams": [
+      {
+        "id": 0,
+        "title": "Arquitectura de mi sistema informatico",
+        "diagramType": "STRIDE",
+        "placeholder": "Descripción de nuevo diagrama STRIDE",
+        "thumbnail": "./public/content/images/thumbnail.stride.jpg",
+        "version": "2.0.3"
+      }
+    ],
+    "diagramTop": 1,
+    "reviewer": "Aitana",
+    "threatTop": 0
+  }
+}
